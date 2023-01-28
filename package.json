@@ -1,7 +1,8 @@
 {
-  "name": "homebridge-epson-projector",
+  "private": true,
+  "name": "homebridge-epson-projector-api-and-ir",
   "version": "0.0.2",
-  "author": "Jackie Yang",
+  "author": "Jackie Yang & WebMajstr",
   "description": "EPSON Projector automation, via Homebridge for the impatient.",
   "license": "MIT",
   "keywords": [
@@ -16,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/valkjsaaa/homebridge-epson-projector.git"
+    "url": "git+https://github.com/WebMajstr-/homebridge-epson-projector.git"
   },
   "bugs": {
     "url": "https://github.com/valkjsaaa/homebridge-epson-projector/issues"

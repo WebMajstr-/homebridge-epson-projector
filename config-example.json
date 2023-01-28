@@ -7,9 +7,11 @@
   },
   "accessories": [
     {
-      "accessory": "homebridge-epson-projector.EpsonProjector",
+      "accessory": "homebridge-epson-projector-api-and-ir.EpsonProjector",
       "name": "Projector",
-      "ip": "192.168.144.128"
+      "debug": true,
+      "ip": "192.168.178.80",
+      "irip": "192.168.178.32:99"
     }
   ],
   "description": "This is an example configuration file with one fake accessory. You can use this as a template for creating your own configuration file containing devices you actually own."
